@@ -1,2 +1,2 @@
 # Hashnode-Projects
- Compliation of all my article files from hashnode
+ Compliation of all my article files from colej.net
